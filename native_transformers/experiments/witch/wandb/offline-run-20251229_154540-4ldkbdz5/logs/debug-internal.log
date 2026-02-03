@@ -1,0 +1,16 @@
+{"time":"2025-12-29T15:45:40.491642037Z","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-12-29T15:45:40.491687156Z","level":"INFO","msg":"created symlink","path":"experiments/witch-0.5b-v1/wandb/offline-run-20251229_154540-4ldkbdz5/logs/debug-core.log"}
+{"time":"2025-12-29T15:45:40.710245486Z","level":"INFO","msg":"created new stream","id":"4ldkbdz5"}
+{"time":"2025-12-29T15:45:40.710296555Z","level":"INFO","msg":"stream: started","id":"4ldkbdz5"}
+{"time":"2025-12-29T15:45:40.710330114Z","level":"INFO","msg":"writer: Do: started","stream_id":"4ldkbdz5"}
+{"time":"2025-12-29T15:45:40.710336684Z","level":"INFO","msg":"sender: started","stream_id":"4ldkbdz5"}
+{"time":"2025-12-29T15:45:40.710347654Z","level":"INFO","msg":"handler: started","stream_id":"4ldkbdz5"}
+{"time":"2025-12-29T15:45:40.713258546Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-12-30T02:09:03.260326845Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-12-30T02:09:03.261138219Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-12-30T02:09:03.261879274Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-12-30T02:09:04.265351224Z","level":"INFO","msg":"stream: closing","id":"4ldkbdz5"}
+{"time":"2025-12-30T02:09:04.265382073Z","level":"INFO","msg":"handler: closed","stream_id":"4ldkbdz5"}
+{"time":"2025-12-30T02:09:04.265394593Z","level":"INFO","msg":"writer: Close: closed","stream_id":"4ldkbdz5"}
+{"time":"2025-12-30T02:09:04.265410113Z","level":"INFO","msg":"sender: closed","stream_id":"4ldkbdz5"}
+{"time":"2025-12-30T02:09:04.265448312Z","level":"INFO","msg":"stream: closed","id":"4ldkbdz5"}

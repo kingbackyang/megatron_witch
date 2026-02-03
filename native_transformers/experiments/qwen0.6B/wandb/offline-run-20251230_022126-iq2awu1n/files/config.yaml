@@ -1,0 +1,54 @@
+wandb_version: 1
+
+model:
+  desc: null
+  value: /workspace/models/Qwen3-0.6B
+batch_size:
+  desc: null
+  value: 16
+lr:
+  desc: null
+  value: 1.0e-05
+world_size:
+  desc: null
+  value: 4
+max_steps:
+  desc: null
+  value: 20000
+save_path:
+  desc: null
+  value: ./experiments/qwen-0.6B/checkpoints
+_wandb:
+  desc: null
+  value:
+    python_version: 3.12.11
+    cli_version: 0.19.0
+    framework: huggingface
+    huggingface_version: 4.57.0
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1767061286
+    t:
+      1:
+      - 1
+      - 5
+      - 11
+      - 49
+      - 51
+      - 53
+      - 55
+      - 71
+      - 105
+      3:
+      - 4
+      - 13
+      - 16
+      - 23
+      - 42
+      - 55
+      4: 3.12.11
+      5: 0.19.0
+      6: 4.57.0
+      8:
+      - 5
+      13: linux-x86_64

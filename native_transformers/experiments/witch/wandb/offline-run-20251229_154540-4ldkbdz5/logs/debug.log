@@ -1,0 +1,28 @@
+2025-12-29 15:45:40,484 INFO    MainThread:2152060 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2025-12-29 15:45:40,484 INFO    MainThread:2152060 [wandb_setup.py:_flush():68] Configure stats pid to 2152060
+2025-12-29 15:45:40,484 INFO    MainThread:2152060 [wandb_setup.py:_flush():68] Loading settings from /root/.config/wandb/settings
+2025-12-29 15:45:40,484 INFO    MainThread:2152060 [wandb_setup.py:_flush():68] Loading settings from /workspace/megatron_witch/native_transformers/wandb/settings
+2025-12-29 15:45:40,484 INFO    MainThread:2152060 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-12-29 15:45:40,484 INFO    MainThread:2152060 [wandb_init.py:_log_setup():528] Logging user logs to ./experiments/witch-0.5b-v1/wandb/offline-run-20251229_154540-4ldkbdz5/logs/debug.log
+2025-12-29 15:45:40,484 INFO    MainThread:2152060 [wandb_init.py:_log_setup():529] Logging internal logs to ./experiments/witch-0.5b-v1/wandb/offline-run-20251229_154540-4ldkbdz5/logs/debug-internal.log
+2025-12-29 15:45:40,484 INFO    MainThread:2152060 [wandb_init.py:init():639] calling init triggers
+2025-12-29 15:45:40,484 INFO    MainThread:2152060 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'model': '/workspace/models/witch0_7B_custom', 'batch_size': 16, 'lr': 1e-05, 'world_size': 4, 'max_steps': 20000, 'save_path': './experiments/witch-0.5b-v1/checkpoints'}
+2025-12-29 15:45:40,484 INFO    MainThread:2152060 [wandb_init.py:init():688] starting backend
+2025-12-29 15:45:40,484 INFO    MainThread:2152060 [wandb_init.py:init():692] sending inform_init request
+2025-12-29 15:45:40,488 INFO    MainThread:2152060 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-12-29 15:45:40,488 INFO    MainThread:2152060 [wandb_init.py:init():705] backend started and connected
+2025-12-29 15:45:40,491 INFO    MainThread:2152060 [wandb_init.py:init():798] updated telemetry
+2025-12-29 15:45:40,491 INFO    MainThread:2152060 [wandb_init.py:init():830] communicating run to backend with 90.0 second timeout
+2025-12-29 15:45:40,711 INFO    MainThread:2152060 [wandb_init.py:init():882] starting run threads in backend
+2025-12-29 15:45:41,053 INFO    MainThread:2152060 [wandb_run.py:_console_start():2443] atexit reg
+2025-12-29 15:45:41,053 INFO    MainThread:2152060 [wandb_run.py:_redirect():2293] redirect: wrap_raw
+2025-12-29 15:45:41,053 INFO    MainThread:2152060 [wandb_run.py:_redirect():2358] Wrapping output streams.
+2025-12-29 15:45:41,053 INFO    MainThread:2152060 [wandb_run.py:_redirect():2383] Redirects installed.
+2025-12-29 15:45:41,054 INFO    MainThread:2152060 [wandb_init.py:init():925] run started, returning control to user process
+2025-12-30 02:09:03,259 INFO    MainThread:2152060 [wandb_run.py:_finish():2169] finishing run witch-pretrain/4ldkbdz5
+2025-12-30 02:09:03,259 INFO    MainThread:2152060 [wandb_run.py:_atexit_cleanup():2408] got exitcode: 0
+2025-12-30 02:09:03,259 INFO    MainThread:2152060 [wandb_run.py:_restore():2390] restore
+2025-12-30 02:09:03,260 INFO    MainThread:2152060 [wandb_run.py:_restore():2396] restore done
+2025-12-30 02:09:04,264 INFO    MainThread:2152060 [wandb_run.py:_footer_history_summary_info():3951] rendering history
+2025-12-30 02:09:04,264 INFO    MainThread:2152060 [wandb_run.py:_footer_history_summary_info():3983] rendering summary

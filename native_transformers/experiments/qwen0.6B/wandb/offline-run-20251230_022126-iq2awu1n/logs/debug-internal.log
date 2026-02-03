@@ -1,0 +1,16 @@
+{"time":"2025-12-30T02:21:26.030707054Z","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2025-12-30T02:21:26.030736174Z","level":"INFO","msg":"created symlink","path":"experiments/qwen-0.6B/wandb/offline-run-20251230_022126-iq2awu1n/logs/debug-core.log"}
+{"time":"2025-12-30T02:21:26.249579361Z","level":"INFO","msg":"created new stream","id":"iq2awu1n"}
+{"time":"2025-12-30T02:21:26.24962434Z","level":"INFO","msg":"stream: started","id":"iq2awu1n"}
+{"time":"2025-12-30T02:21:26.249652179Z","level":"INFO","msg":"writer: Do: started","stream_id":"iq2awu1n"}
+{"time":"2025-12-30T02:21:26.249676129Z","level":"INFO","msg":"handler: started","stream_id":"iq2awu1n"}
+{"time":"2025-12-30T02:21:26.249675729Z","level":"INFO","msg":"sender: started","stream_id":"iq2awu1n"}
+{"time":"2025-12-30T02:21:26.252173439Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-12-30T11:39:13.834098144Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-12-30T11:39:13.834894548Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-12-30T11:39:13.8357817Z","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-12-30T11:39:14.839498824Z","level":"INFO","msg":"stream: closing","id":"iq2awu1n"}
+{"time":"2025-12-30T11:39:14.839526954Z","level":"INFO","msg":"handler: closed","stream_id":"iq2awu1n"}
+{"time":"2025-12-30T11:39:14.839537504Z","level":"INFO","msg":"writer: Close: closed","stream_id":"iq2awu1n"}
+{"time":"2025-12-30T11:39:14.839555463Z","level":"INFO","msg":"sender: closed","stream_id":"iq2awu1n"}
+{"time":"2025-12-30T11:39:14.839611982Z","level":"INFO","msg":"stream: closed","id":"iq2awu1n"}

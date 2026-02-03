@@ -1,0 +1,80 @@
+{
+  "os": "Linux-5.4.241-1-tlinux4-0017.16-x86_64-with-glibc2.35",
+  "python": "CPython 3.12.11",
+  "startedAt": "2025-12-29T15:45:40.488915Z",
+  "program": "/workspace/megatron_witch/native_transformers/train_witch.py",
+  "codePath": "train_witch.py",
+  "root": "./experiments/witch-0.5b-v1",
+  "host": "VM-32-3-centos",
+  "username": "root",
+  "executable": "/opt/conda/envs/pytorch/bin/python3.12",
+  "codePathLocal": "train_witch.py",
+  "cpu_count": 192,
+  "cpu_count_logical": 384,
+  "gpu": "NVIDIA H20",
+  "gpu_count": 8,
+  "disk": {
+    "/": {
+      "total": "540459978752",
+      "used": "486266785792"
+    }
+  },
+  "memory": {
+    "total": "2432289751040"
+  },
+  "cpu": {
+    "count": 192,
+    "countLogical": 384
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA H20",
+      "memoryTotal": "102625181696",
+      "cudaCores": 9984,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H20",
+      "memoryTotal": "102625181696",
+      "cudaCores": 9984,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H20",
+      "memoryTotal": "102625181696",
+      "cudaCores": 9984,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H20",
+      "memoryTotal": "102625181696",
+      "cudaCores": 9984,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H20",
+      "memoryTotal": "102625181696",
+      "cudaCores": 9984,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H20",
+      "memoryTotal": "102625181696",
+      "cudaCores": 9984,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H20",
+      "memoryTotal": "102625181696",
+      "cudaCores": 9984,
+      "architecture": "Hopper"
+    },
+    {
+      "name": "NVIDIA H20",
+      "memoryTotal": "102625181696",
+      "cudaCores": 9984,
+      "architecture": "Hopper"
+    }
+  ],
+  "cudaVersion": "12.8"
+}
